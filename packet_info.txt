@@ -1,0 +1,40 @@
+Source IP: 172.20.10.10
+Destination IP: 47.254.80.199
+Protocol: 6
+Payload: Raw
+
+Source IP: 172.20.10.10
+Destination IP: 47.254.80.199
+Protocol: 6
+Payload: Raw
+
+Source IP: 47.254.80.199
+Destination IP: 172.20.10.10
+Protocol: 6
+Payload: 
+
+Source IP: 47.254.80.199
+Destination IP: 172.20.10.10
+Protocol: 6
+Payload: Raw
+
+Source IP: 47.254.80.199
+Destination IP: 172.20.10.10
+Protocol: 6
+Payload: Raw
+
+Source IP: 172.20.10.10
+Destination IP: 47.254.80.199
+Protocol: 6
+Payload: 
+
+Source IP: 172.20.10.10
+Destination IP: 34.237.73.95
+Protocol: 6
+Payload: 
+
+Source IP: 47.254.80.199
+Destination IP: 172.20.10.10
+Protocol: 6
+Payload: Raw
+
